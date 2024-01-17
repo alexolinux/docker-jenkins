@@ -14,8 +14,6 @@ docker image tag jenkins-blueocean:2.414.2 alexmbarbosa/jenkins-blueocean:1.0
 docker push alexmbarbosa/jenkins-blueocean:1.0
 ```
 
-| *IF you are having problems building the image yourself, you can pull from my registry (It is version 2.332.3-1 though, the original from the video)*
-
 #### Create the network 'jenkins'
 
 ```shell
